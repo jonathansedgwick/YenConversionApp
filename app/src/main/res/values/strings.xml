@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConversionApp</string>
+    <string name="convert_button_text">Convert</string>
+    <string name="input_hint">Enter number:</string>
+    <string name="result_text_value">Result:</string>
+    <string name="radio_inToCM">Dollars to Yen</string>
+    <string name="radio_cmToIn">Yen to Dollars</string>
+    <string name="radio_ftToIn">Feet to Inches</string>
+    <string name="back_button_text">Back</string>
+</resources>
